@@ -13,7 +13,7 @@ A live version of this app can be found here[Click Here](https://appappcancer-mr
 You can run this inside a virtual environment to make it easier to manage dependencies. I recommend using `conda` to create a new environment and install the required packages. You can create a new environment called `breast-cancer-diagnosis` by running:
 
 ```bash
-conda create -n breast-cancer-diagnosis python=3.10 
+conda create -n breast-cancer-diagnosis python=3.12.3
 ```
 
 Then, activate the environment:
